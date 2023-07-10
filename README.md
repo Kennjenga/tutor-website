@@ -1,2 +1,2 @@
-first clothing website design with bootstrap css
+simple tutor website design with html and plain css
 # tutor-website
